@@ -47,7 +47,7 @@ namespace Operators_DeBord_Joshua
             Console.WriteLine($"{longMultiply} is greater than {longAdd}. This is {islongGreater}.");
 
 
-
+             
             //makes an floateger that mulitples 9 and 14
             float floatMultiply = 9 * 14;
             //makes an floateger that adds 66 and 18
